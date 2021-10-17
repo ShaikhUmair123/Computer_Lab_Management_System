@@ -1,0 +1,16 @@
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\bin\Debug\LabManagementSystem.exe
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\bin\Debug\LabManagementSystem.pdb
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\bin\Debug\LabManagementSystem.xml
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.Resources.resources
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.Student_details.resources
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.vbproj.GenerateResource.Cache
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.exe
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.xml
+c:\users\umair\documents\visual studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.pdb
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.User.resources
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.Report.resources
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.LabMaster.resources
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.Staff.resources
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.login.resources
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.MainMenu.resources
+C:\Users\Umair\Documents\Visual Studio 2010\Projects\LabManagementSystem\LabManagementSystem\obj\x86\Debug\LabManagementSystem.Report2.resources
